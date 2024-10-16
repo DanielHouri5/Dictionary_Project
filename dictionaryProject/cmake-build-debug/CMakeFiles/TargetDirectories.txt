@@ -1,0 +1,3 @@
+C:/Users/hdani/CLionProjects/dictionaryProject/cmake-build-debug/CMakeFiles/dictionaryProject.dir
+C:/Users/hdani/CLionProjects/dictionaryProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hdani/CLionProjects/dictionaryProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
